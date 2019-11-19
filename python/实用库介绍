@@ -1,0 +1,15 @@
+Markdown 将 markdown 字符串转换为 html 字符串
+项目地址：https://python-markdown.github.io/
+
+Bleachh 是一个基于白名单、通过转义或去除标签和属性的方式，来对HTML文本净化的python库
+项目地址：https://github.com/mozilla/bleach
+
+Faker 生成模拟数据库
+项目地址：https://github.com/joke2k/faker
+
+coverage 代码测试覆盖工具
+项目地址：https://wiki.python.org/moin/CodeCoverage
+
+Frozen-Flask：把 Flask 应用转换成静态网站
+
+Flask-SocketIO：实现 Socket.IO 服务器，支持 WebSocket 和长轮询
