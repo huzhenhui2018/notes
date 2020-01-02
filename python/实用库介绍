@@ -10,6 +10,12 @@ Faker 生成模拟数据库
 coverage 代码测试覆盖工具
 项目地址：https://wiki.python.org/moin/CodeCoverage
 
+
+
+flask书的配套源码: 可以参考用户登录、角色授权功能
+https://github.com/miguelgrinberg/flasky
+
+
 Frozen-Flask：把 Flask 应用转换成静态网站
 
 Flask-SocketIO：实现 Socket.IO 服务器，支持 WebSocket 和长轮询
